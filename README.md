@@ -1,2 +1,3 @@
-＃vscode-config-collections
-自己常用的vscode配置文件
+# code-config-collections
+
+自己常用的vscode配置文件  
